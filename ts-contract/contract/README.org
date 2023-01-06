@@ -1,0 +1,5 @@
+TITLE: Detail
+
+src sh:
+pnpm run deploy
+
